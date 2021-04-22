@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @bharthi
+- 👀 I’m interested in the field of machine learning and data science projects...
+- 🌱 I’m currently pursuing my Masters in the filed of AI &n ML ...
+- 💞️ I’m looking to collaborate on Data Science related projects...
+
+<!---
+bharthi123456/bharthi123456 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
